@@ -5,12 +5,13 @@
 
 
 # Funcionalidades Clave
-Explora una lista completa de países con detalles.
-Utiliza el buscador para encontrar información específica sobre un pais.
-Enlace aa mapa del pais.
+- Explora una lista completa de países con detalles.
+- Utiliza el buscador para encontrar información específica sobre un pais.
+- Enlace a mapa del pais.
 
 ## Mejoras
-He retocado el estilo exlorando con la biblioteca tailwind y el pluguin daisyui
+- He retocado el estilo exlorando con la biblioteca tailwind y el pluguin daisyui
+- Añadido inputs para cambiar de tono aprovechando utilidades del daisyui
 
 ## Todos
 - Sustituir la paginación por el componente vue-paginate
