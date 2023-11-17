@@ -15,8 +15,11 @@ He retocado el estilo exlorando con la biblioteca tailwind y el pluguin daisyui
 ## Todos
 - Sustituir la paginación por el componente vue-paginate
 - Arreglar la paginacion
+- Refactorizar y mejorar código
 - Hacer test
 
+  ## desplegado
+  https://apppaisespetrazeta.netlify.app/
 
    <img width="960" alt="image" src="https://github.com/PetraZeta/AppPaises/assets/99441285/fef01f9e-d5ca-449c-8193-4bd6875600fb">
 
